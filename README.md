@@ -35,7 +35,7 @@ const nico = {
   roles:      ["Software Engineer", "Full-Stack Developer",
                "Game Developer", "Game Designer", "UI/UX Designer"],
   mainStack:  ["JavaScript", "HTML5", "CSS3", "Node.js", "React"],
-  gameTools:  ["Unity", "C#", "Godot"],
+  gameTools:  ["C#", "Godot", "Lua"],
   design:     ["Figma", "Photoshop", "Illustrator", "CorelDraw"],
   learning:   ["TypeScript", "Three.js", "Next.js"],
   hobbies:    ["Gaming 🎮", "Design 🎨", "Open Source 🌍"],
@@ -61,7 +61,6 @@ const nico = {
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 
 ### 🎮 Game Development
-![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white)
 ![Lua](https://img.shields.io/badge/LUA-blue?logo=lua)
